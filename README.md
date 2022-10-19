@@ -1,2 +1,2 @@
 # python-api-challenge
-APIs Homework: What's the Weather Like?
+API assignment where I create python script to visualize weather at various cities
